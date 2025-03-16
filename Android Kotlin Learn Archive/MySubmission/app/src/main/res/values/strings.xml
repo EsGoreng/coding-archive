@@ -1,0 +1,204 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string name="campus_name">Nama Kampus</string>
+    <string name="description">Deskripsi</string>
+    <string name="itb_desc">ITB adalah perguruan tinggi negeri yang sangat bergengsi di Indonesia, khususnya di bidang sains dan teknologi. Didirikan pada tahun 1920, ITB telah menjadi pionir dalam pengembangan pendidikan tinggi teknik di Indonesia dan terus berinovasi hingga saat ini.</string>
+    <string-array name="data_name">
+        <item>Institut Teknologi Bandung</item>
+        <item>Institut Teknologi Nasional</item>
+        <item>Universitas Kristen Maranatha</item>
+        <item>UIN Sunan Gunung Djati</item>
+        <item>Telkom University</item>
+        <item>Universitas Komputer Indonesia</item>
+        <item>Universitas Padjajaran</item>
+        <item>Universitas Katolik Parahyangan</item>
+        <item>Universitas Pasundan</item>
+        <item>Universitas Pendidikan Indonesia</item>
+    </string-array>
+    <string name="itb">Institut Teknologi Bandung</string>
+    <string name="itenas">Institut Teknologi Nasional</string>
+    <string name="ukm">Universitas Kristen Maranatha</string>
+    <string name="uin">UIN Sunan Gunung Djati</string>
+    <string name="telu">Telkom University</string>
+    <string name="unikom">Universitas Komputer Indonesia</string>
+    <string name="unpad">Universitas Padjajaran</string>
+    <string name="ukp">Universitas Katolik Parahyangan</string>
+    <string name="unpas">Universitas Pasundan</string>
+    <string name="upi">Universitas Pendikdikan Indionesia</string>
+    <string name="fakultas_dan_program_studi">Fakultas dan Program Studi</string>
+    <string name="itb_fakultas_capt">ITB terbagi menjadi beberapa fakultas dan sekolah, di antaranya :</string>
+    <string name="fakultas_teknik">Fakultas Teknik</string>
+    <string name="jurusan_teknik_itb">Teknik Mesin, Teknik Sipil, Teknik Elektro, Teknik Kimia, dan lain-lain.</string>
+    <string name="fakultas_ilmu_dan_teknologi">Fakultas Ilmu dan Teknologi :</string>
+    <string name="jurusan_ilmu_dan_teknologi_itb">Teknik Geologi, Teknik Geofisika, dan lain-lain.</string>
+    <string name="fakultas_matematika_dan_ilmu_pengetahuan_alam">Fakultas Matematika dan Ilmu Pengetahuan Alam</string>
+    <string name="jurusan_matematika_dan_ilmu_pengetahuan_alam">Matematika, Fisika, Kimia, dan lain-lain.</string>
+    <string name="sekolah_ilmu_dan_teknologi_hayati">Sekolah Ilmu dan Teknologi Hayati</string>
+    <string name="jurusan_sekolah_ilmu_dan_teknologi_hayati">Biologi, Bioteknologi, dan lain-lain.</string>
+    <string name="sekolah_farmasi">Sekolah Farmasi</string>
+    <string name="jurusan_farmasi">Farmasi</string>
+    <string name="fakultas_seni_rupa_dan_desain">Fakultas Seni Rupa dan Desain</string>
+    <string name="jurusan_seni_rupa_dan_desain">Desain Komunikasi Visual, Desain Produk, dan lain-lain.</string>
+    <string name="sekolah_bisnis_dan_manajemen">Sekolah Bisnis dan Manajemen</string>
+    <string name="jurusan_sekolah_bisnis_dan_manajemen">Manajemen</string>
+    <string name="itenas_desc">Institut Teknologi Nasional (Itenas) adalah sebuah perguruan tinggi swasta yang berlokasi di Bandung, Jawa Barat, Indonesia. Kampus ini dikenal dengan fokusnya pada bidang teknologi, teknik, dan seni.</string>
+    <string name="itenas_fakultas_capt">Itenas memiliki beberapa fakultas dan program studi yang mencakup berbagai bidang ilmu teknik dan non-teknik. Beberapa fakultas dan program studi yang ada di Itenas antara lain:</string>
+    <string name="fakultas_teknik_sipil_dan_perencanaan">Fakultas Teknik Sipil dan Perencanaan (FTSP)</string>
+    <string name="jurusan_teknik_sipil_dan_perencanaan_itenas">Teknik Sipil, Arsitektur, dan Perencanaan Wilayah dan Kota</string>
+    <string name="fakultas_teknologi_industri_fti">Fakultas Teknologi Industri (FTI)</string>
+    <string name="jurusan_teknologi_industri">Teknik Mesin, Teknik Elektro, Teknik Industri, Teknik Kimia</string>
+    <string name="fakultas_teknik_geologi_ftg">Fakultas Teknik Geologi (FTG)</string>
+    <string name="jurusan_teknik_geologi">Teknik Geologi</string>
+    <string name="fakultas_seni_rupa_dan_desain_fsrd">Fakultas Seni Rupa dan Desain (FSRD)</string>
+    <string name="jurusan_seni_rupa_dan_desain_itenas">Desain Komunikasi Visual, Desain Interior, Kriya Tekstil dan Mode</string>
+    <string name="fakultas_teknologi_informasi_fti">Fakultas Teknologi Informasi (FTI)</string>
+    <string name="jurusan_teknologi_informasi">Teknik Informartika, Sistem Informasi</string>
+    <string name="ukm_desc">Universitas Kristen Maranatha adalah sebuah perguruan tinggi swasta Kristen yang berlokasi di Bandung, Jawa Barat, Indonesia. Kampus ini dikenal dengan komitmennya dalam menyediakan pendidikan tinggi yang berkualitas, integritas akademik, dan nilai-nilai Kristiani.</string>
+    <string name="ukm_fakultas_capt">Universitas Kristen Maranatha memiliki beberapa fakultas dan program studi yang mencakup berbagai bidang ilmu. Beberapa fakultas dan program studi yang ada di Universitas Kristen Maranatha antara lain:</string>
+    <string name="jurusan_teknik_ukm">Teknik Sipil, Teknik Elektro, Teknik Mesin, Teknik Industri, Teknik Informatika</string>
+    <string name="fakultas_kedokteran">Fakultas Kedokteran</string>
+    <string name="jurusan_kedokteran_ukm">Pendidikan Dokter, Profesi Dokter</string>
+    <string name="fakultas_kedokteran_gigi">Fakultas Kedokteran Gigi</string>
+    <string name="jurusan_kedoketeran_gigi">Pendidikan Dokter Gigi, Profesi Dokter Gigi</string>
+    <string name="fakultas_psikologi">Fakultas Psikologi</string>
+    <string name="jurusan_psikologi">Psikologi</string>
+    <string name="jurusan_seni_rupa_dan_desain_ukm">Desain Komunikasi Sosial, Desain Interior, Kriya Tekstil dan Mode</string>
+    <string name="fakultas_ekonomi">Fakultas Ekonomi</string>
+    <string name="jurusan_ekonomi_ukm">Manajemen, Akuntansi</string>
+    <string name="fakultas_hukum">Fakultas Hukum</string>
+    <string name="jurusan_ilmu_hukum">Ilmu Hukum</string>
+    <string name="jurusan_ilmu_sosial_dan_politik">Ilmu Komunikasi, Hubungan Internasional</string>
+    <string name="fakultas_ilmu_sosial_dan_politik">Fakultas Ilmu Sosial dan Politik</string>
+    <string name="fakultas_sastra">Fakultas Sastra</string>
+    <string name="jurusan_sastra_ukm">Sastra Inggris, Sastra Jepang, Sastra Cina</string>
+    <string name="uin_desc">Universitas Islam Negeri (UIN) Sunan Gunung Djati Bandung adalah salah satu perguruan tinggi negeri berbasis Islam yang terletak di Bandung, Jawa Barat, Indonesia. UIN ini merupakan salah satu UIN terkemuka di Indonesia dan memiliki fokus pada pengembangan ilmu pengetahuan yang terintegrasi dengan nilai-nilai keislaman.</string>
+    <string name="telu_desc">Telkom University adalah sebuah perguruan tinggi swasta yang berfokus pada bidang teknologi informasi dan komunikasi (TIK). Didirikan pada tahun 2013, kampus ini dengan cepat tumbuh menjadi salah satu universitas swasta terbaik di Indonesia, khususnya dalam bidang TIK.</string>
+    <string name="telu_fakultas_capt">Telkom University menawarkan berbagai program studi yang menarik, antara lain:</string>
+    <string name="fakultas_teknik_elektro">Fakultas Teknik Elektro</string>
+    <string name="jurusan_teknik_elektro_telu">Teknik Telekomunikasi, Teknik Elektro, Teknik Komputer, Teknik Fisika, Fakultas Informa</string>
+    <string name="fakultas_informatika">Fakultas Informatika</string>
+    <string name="jurusan_informatika_telui">Informatika, Rekayasa Perangkat Lunak, Sains Data, Keamanan Siber</string>
+    <string name="fakultas_rekayasa_industri_fri">Fakultas Rekayasa Industri (FRI)</string>
+    <string name="jurusan_fri_telu">Teknik Industri, Manajemen Rekayasa,Sistem Informasi</string>
+    <string name="fakultas_economic_dan_bisnis_feb">Fakultas Economic dan Bisnis (FEB)</string>
+    <string name="jurusan_feb_telu">Akuntansi. Manajemen, Ekonomi dan Keuangan Islam</string>
+    <string name="fakultas_komunikasi_dan_bisnis_fkb">Fakultas Komunikasi dan Bisnis (FKB)</string>
+    <string name="fakultas_komunikasi_dan_bisnis">Fakultas Komunikasi dan Bisnis</string>
+    <string name="jurusan_komunikasi_bisnis_telu">Ilmu Komunikasi, Administrasi Bisnis, Digital Business</string>
+    <string name="fakultas_industri_kreatif_fic">Fakultas Industri Kreatif (FIC)</string>
+    <string name="jurusan_fik_telu">Desain Komunikasi Visual, Desain Produk, Animasi, Game Development</string>
+    <string name="fakultas_ilmu_terapan_fit">Fakultas Ilmu Terapan (FIT)</string>
+    <string name="jurusan_ilmu_terapan">Teknik Logistik, Manajemen Transportasi, Teknologi Pangan</string>
+    <string name="unikom_desc">Universitas Komputer Indonesia (UNIKOM) adalah sebuah perguruan tinggi swasta yang terletak di kota Bandung, Jawa Barat. UNIKOM memiliki spesialisasi dalam bidang teknologi dan informasi.</string>
+    <string name="fakultas_unikom_capt">UNIKOM memiliki beberapa fakultas dengan berbagai program studi yang berkaitan dengan komputer dan teknologi informasi, serta beberapa bidang lainnya. Berikut adalah daftar fakultas dan jurusan yang ada di UNIKOM:</string>
+    <string name="fakultas_teknik_dan_ilmu_komputer_ftik">Fakultas Teknik dan Ilmu Komputer (FTIK)</string>
+    <string name="fakultas_ekonomi_dan_bisnis_feb">Fakultas Ekonomi dan Bisnis (FEB)</string>
+    <string name="jurusan_feb_unikom">Akuntansi (S1), Manajemen (S1), Ekonomi Syariah (S1)</string>
+    <string name="fakultas_desain_komunikasi_visual_fdkv">Fakultas Desain Komunikasi Visual (FDKV)</string>
+    <string name="jurusan_fdkv_unikom">Desain Komunikasi Visual (S1), Desain Interior (S1)</string>
+    <string name="fakultas_ilmu_sosial_dan_politik_fisip">Fakultas Ilmu Sosial dan Politik (FISIP)</string>
+    <string name="jurusan_fisipi_unikom">Ilmu Komunikasi (S1), Hubungan Internasional (S1), Administrasi Publik (S1)</string>
+    <string name="fakultas_hukum_fh">Fakultas Hukum (FH)</string>
+    <string name="jurusan_fh_unikom">Ilmu Hukum (S1)</string>
+    <string name="program_pascasarjana">Program Pascasarjana</string>
+    <string name="jurusan_pascasarjana_unikom">Magister Teknik Informatika (S2), Magister Manajemen (S2)</string>
+    <string name="unpad_desc">Universitas Padjadjaran (Unpad) adalah sebuah perguruan tinggi negeri yang terletak di Jawa Barat, Indonesia. Kampus utamanya terletak di Jatinangor, Kabupaten Sumedang. Unpad dikenal sebagai salah satu universitas terkemuka di Indonesia dan memiliki berbagai fakultas dan program studi yang beragam.</string>
+    <string name="fakultas_unpad_capt">Unpad memiliki berbagai fakultas dan program studi yang mencakup berbagai bidang ilmu, antara lain:</string>
+    <string name="fakultas_kedokteran_fk">Fakultas Kedokteran (FK)</string>
+    <string name="jurusan_kedokteran_unppad">Pendidikan Dokter, Pendidikan Dokter Spesialis, Ilmu Keperawatan, Kebidanan</string>
+    <string name="fakultas_kedokteran_gigi_fkg">Fakultas Kedokteran Gigi (FKG)</string>
+    <string name="jurusan_kedokteran_gigi_unpad">Pendidikan Dokter Gigi</string>
+    <string name="jurusan_hukum_unpad">Ilmu Hukum</string>
+    <string name="jurusan_feb_unpad">Akuntansi, Manajemen, Ekonomi Pembangunan, Perbankan dan Keuangan, Ekonomi Islam</string>
+    <string name="fakultas_fmipa_unpad">Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA)</string>
+    <string name="jurusan_fmipa_unpad">Matematika, Fisika, Kimia, Biologi, Statistika, Geofisika</string>
+    <string name="fakultas_teknik_ft">Fakultas Teknik (FT)</string>
+    <string name="jurusan_teknik_unpad">Teknik Sipil, Teknik Mesin, Teknik Elektro, Teknik Kimia, Teknik Industri, Teknik Pertambangan, Teknik Geologi</string>
+    <string name="fakultas_pertanian_faperta">Fakultas Pertanian (Faperta)</string>
+    <string name="jurusan_pertanian_unpad">Agroteknologi, Agribisnis, Ilmu Tanah, Proteksi Tanaman, Teknologi Pangan, Nutrisi dan Teknologi Pakan</string>
+    <string name="fakultas_peternakan_fapet">Fakultas Peternakan (Fapet)</string>
+    <string name="jurusan_peternakan_unpad">Peternakan</string>
+    <string name="fakultas_perikanan_dan_ilmu_kelautan_fpik">Fakultas Perikanan dan Ilmu Kelautan (FPIK)</string>
+    <string name="jurusan_perikanan_unpad">Perikanan, Ilmu Kelautan, Budidaya Perairan, Manajemen Sumber Daya Perairan</string>
+    <string name="fakultas_kehutanan_fahutan">Fakultas Kehutanan (Fahutan)</string>
+    <string name="jurusan_kehutanan_unpad">Kehutanan</string>
+    <string name="fakultas_psikologi_fpsi">Fakultas Psikologi (FPsi)</string>
+    <string name="psikologi">Psikologi</string>
+    <string name="fakultas_ilmu_budaya_fib">Fakultas Ilmu Budaya (FIB)</string>
+    <string name="jurusan_budaya_unpad">Sastra Indonesia, Sastra Inggris, Sastra Sunda, Sejarah, Filologi, Arkeologi, Antropologi</string>
+    <string name="fakultas_ilmu_sosial_dan_ilmu_politik_fisip">Fakultas Ilmu Sosial dan Ilmu Politik (FISIP)</string>
+    <string name="jurusan_ilmu_sosial_politik_unpad">Ilmu Administrasi Negara, Ilmu Administrasi Niaga, Ilmu Komunikasi, Ilmu Hubungan Internasional, Ilmu Politik, Sosiologi, Antropologi</string>
+    <string name="fakultas_farmasi_ff">Fakultas Farmasi (FF)</string>
+    <string name="jurusan_farmasi_unpad">Farmasi</string>
+    <string name="fakultas_ilmu_keperawatan_fik">Fakultas Ilmu Keperawatan (FIK)</string>
+    <string name="jurusan_ilmu_keperawatan">Ilmu Keperawatan</string>
+    <string name="unpar_desc">Universitas Katolik Parahyangan, atau yang lebih dikenal dengan sebutan Unpar, adalah salah satu perguruan tinggi swasta terkemuka di Indonesia. Berlokasi di Bandung, Jawa Barat, Unpar memiliki sejarah panjang dan reputasi yang baik dalam bidang pendidikan tinggi.</string>
+    <string name="fakultas_unpar_capt">Unpar memiliki beragam fakultas dan program studi yang mencakup berbagai bidang ilmu, antara lain:</string>
+    <string name="jurusan_eknomi_ukp">Akuntansi, Manajemen, Ekonomi Pembangunan</string>
+    <string name="ilmu_hukum">Ilmu Hukum</string>
+    <string name="fakultas_ilmu_sosial_dan_ilmu_politik">Fakultas Ilmu Sosial dan Ilmu Politik</string>
+    <string name="jurusan_sosial_politik_ukp">Ilmu Administrasi Publik, Ilmu Hubungan Internasional, Ilmu Komunikasi</string>
+    <string name="jurusan_teknik">Teknik Sipil, Teknik Arsitektur, Teknik Mesin, Teknik Elektro, Teknik Industri</string>
+    <string name="fakultas_filsafat">Fakultas Filsafat</string>
+    <string name="filsafat">Filsafat</string>
+    <string name="jurusan_sastra_ukp">Sastra Inggris, Sastra Indonesia</string>
+    <string name="jurusan_mtk_ukp">Matematika, Fisika, Informatika</string>
+    <string name="jurusan_pascarsarjana">Magister Manajemen, Magister Teknik, Magister Hukum, Doktor Ilmu Hukum</string>
+    <string name="unpas_dsec">Universitas Pasundan (Unpas) adalah sebuah perguruan tinggi swasta terkemuka yang terletak di Bandung, Jawa Barat, Indonesia. Unpas memiliki sejarah panjang dan reputasi yang baik dalam bidang pendidikan tinggi.</string>
+    <string name="fakultas_unpas_dsec">Unpas memiliki berbagai fakultas dan program studi yang mencakup berbagai bidang ilmu, antara lain:</string>
+    <string name="jurusan_teknik_unpas">Teknik Sipil, Teknik Arsitektur, Teknik Mesin, Teknik Elektro, Teknik Industri</string>
+    <string name="fakultas_ekonomi_dan_bisnis">Fakultas Ekonomi dan Bisnis</string>
+    <string name="jurusan_feb_unpas">Akuntansi, Manajemen, Ekonomi Pembangunan</string>
+    <string name="jurusan_ilmu_politik_unpas">Ilmu Administrasi Publik, Ilmu Administrasi Bisnis, Ilmu Komunikasi, Ilmu Hubungan Internasional</string>
+    <string name="fakultas_keguruan_dan_ilmu_pendidikan">Fakultas Keguruan dan Ilmu Pendidikan</string>
+    <string name="jurusan_keguruan_unpas">Pendidikan Bahasa dan Sastra Indonesia, Pendidikan Bahasa Inggris, Pendidikan Matematika, Pendidikan Fisika, Pendidikan Kimia, Pendidikan Biologi</string>
+    <string name="fakultas_seni_dan_desain">Fakultas Seni dan Desain</string>
+    <string name="jurusan_seni_design_unpas">Desain Komunikasi Visual, Desain Interior, Seni Rupa</string>
+    <string name="pendidikan_dokter">Pendidikan Dokter</string>
+    <string name="jurusan_pascarasrjan_unpas">Magister Manajemen, Magister Teknik, Magister Hukum, Doktor Ilmu Hukum</string>
+    <string name="upi_desc">Universitas Pendidikan Indonesia (UPI) adalah sebuah perguruan tinggi negeri yang kampus utamanya terletak di Kota Bandung, Jawa Barat, Indonesia. UPI memiliki fokus utama pada bidang pendidikan dan keguruan, serta memiliki sejarah panjang dalam menghasilkan tenaga pendidik berkualitas di Indonesia.</string>
+    <string name="fakultas_upi_desc">UPI memiliki berbagai fakultas dan program studi yang mencakup berbagai bidang ilmu, terutama dalam bidang pendidikan dan keguruan. Beberapa fakultas dan program studi yang ada di UPI antara lain:</string>
+    <string name="jurusan_pendidikan_upi">Bimbingan dan Konseling, Pendidikan Luar Sekolah, Pendidikan Khusus, Teknologi Pendidikan</string>
+    <string name="fakultas_pendidikan_bahasa_dan_sastra_fpbs">Fakultas Pendidikan Bahasa dan Sastra (FPBS)</string>
+    <string name="fakultas_ilmu_pendidikan">Fakultas Ilmu Pendidikan</string>
+    <string name="jurusan_pendidikan_sastra_upi">Pendidikan Bahasa Indonesia, Pendidikan Bahasa Inggris, Pendidikan Bahasa Arab, Pendidikan Bahasa Jepang</string>
+    <string name="fakultas_pendidikan_matematika_dan_ilmu_pengetahuan_alam_fpmipa">Fakultas Pendidikan Matematika dan Ilmu Pengetahuan Alam (FPMIPA)</string>
+    <string name="jurusan_fmipa_upi">Pendidikan Matematika, Pendidikan Fisika, Pendidikan Kimia, Pendidikan Biologi</string>
+    <string name="fakultas_pendidikan_teknologi_dan_kejuruan_fptk">Fakultas Pendidikan Teknologi dan Kejuruan (FPTK)</string>
+    <string name="jurusan_pendidikan_dan_teknologi_upi">Pendidikan Teknik Mesin, Pendidikan Teknik Elektro, Pendidikan Teknik Sipil, Pendidikan Tata Busana</string>
+    <string name="fakultas_pendidikan_ilmu_sosial_fpips">Fakultas Pendidikan Ilmu Sosial (FPIPS)</string>
+    <string name="jurusan_sosial_upi">Pendidikan Sejarah, Pendidikan Geografi, Pendidikan Ekonomi, Pendidikan Kewarganegaraan</string>
+    <string name="fakultas_pendidikan_olahraga_dan_kesehatan_fpok">Fakultas Pendidikan Olahraga dan Kesehatan (FPOK)</string>
+    <string name="jurusan_olahraga_upi">Pendidikan Jasmani, Pendidikan Kesehatan, Ilmu Keolahragaan</string>
+    <string name="fakultas_seni_dan_desain_fsd">Fakultas Seni dan Desain (FSD)</string>
+    <string name="jurusan_seni_upi">Pendidikan Seni Rupa, Pendidikan Seni Musik, Desain Komunikasi Visual</string>
+    <string name="pascasarjana_upi">Magister dan Doktor dalam berbagai bidang pendidikan</string>
+    <string name="about">About</string>
+    <string name="nama">Itsna Akhdan Fadhil</string>
+    <string name="email">itsnaakhdan25@gmail.com</string>
+    <string-array name="data_description">
+        <item>Institut Teknologi Bandung (ITB) Sebagai salah satu perguruan tinggi tertua dan paling bergengsi di Indonesia, ITB dikenal dengan program studi teknik dan sains yang berkualitas tinggi. Kampus ini memiliki fasilitas modern, lingkungan akademik yang kondusif, dan reputasi alumni yang sukses di berbagai bidang.</item>
+        <item>Institut Teknologi Nasional (ITENAS) ITENAS adalah perguruan tinggi swasta yang fokus pada bidang teknik. Kampus ini memiliki program studi yang relevan dengan kebutuhan industri, serta fasilitas praktikum yang memadai.</item>
+        <item>Universitas Kristen Maranatha Universitas Maranatha adalah perguruan tinggi swasta yang dikenal dengan keunggulannya di bidang kesehatan dan farmasi. Kampus ini memiliki fasilitas kesehatan yang lengkap dan modern.</item>
+        <item>Universitas Islam Negeri Sunan Gunung Djati (UIN SGD) UIN SGD adalah perguruan tinggi Islam negeri yang menawarkan berbagai program studi, mulai dari agama, sosial, hingga sains. Kampus ini memiliki suasana akademik yang religius dan toleran.</item>
+        <item>Telkom University adalah perguruan tinggi swasta yang fokus pada bidang teknologi informasi dan komunikasi. Kampus ini memiliki kerja sama yang erat dengan industri, sehingga lulusannya sangat diminati oleh perusahaan-perusahaan teknologi.</item>
+        <item>Universitas Komputer Indonesia (UNIKOM) UNIKOM adalah perguruan tinggi swasta yang fokus pada bidang teknologi informasi. Kampus ini memiliki program studi yang up-to-date dengan perkembangan teknologi terkini.</item>
+        <item>Universitas Padjadjaran (UNPAD) UNPAD adalah perguruan tinggi negeri yang memiliki berbagai program studi, mulai dari ilmu sosial, hukum, hingga kedokteran. Kampus ini memiliki reputasi yang baik di tingkat nasional.</item>
+        <item>Universitas Katolik Parahyangan (UNPAR) UNPAR adalah perguruan tinggi swasta yang berakar pada nilai-nilai Katolik. Kampus ini menawarkan program studi yang beragam, dengan fokus pada pengembangan karakter dan etika mahasiswa.</item>
+        <item>Universitas Pasundan (UNPAS) UNPAS adalah perguruan tinggi swasta tertua di Bandung. Kampus ini memiliki program studi yang beragam, dengan fokus pada pengembangan sumber daya manusia yang berkualitas.</item>
+        <item>Universitas Pendidikan Indonesia (UPI) UPI adalah pilihan tepat bagi kamu yang ingin menjadi guru atau pendidik. Kampus ini memiliki program studi kependidikan yang lengkap dan berkualitas, serta fasilitas yang mendukung pengembangan kompetensi mahasiswa dalam bidang pendidikan.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/itb</item>
+        <item>@drawable/itenas</item>
+        <item>@drawable/maranatha</item>
+        <item>@drawable/sgd</item>
+        <item>@drawable/telkom</item>
+        <item>@drawable/unikom</item>
+        <item>@drawable/unpad</item>
+        <item>@drawable/unpar</item>
+        <item>@drawable/unpas</item>
+        <item>@drawable/upi</item>
+    </integer-array>
+
+</resources>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/itb"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".itb">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="260dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/upi"/>
+
+        <TextView
+            style="@style/title_campus"
+            android:text="@string/upi"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:text="@string/upi_desc"/>
+
+        <TextView
+            style="@style/heading2"
+            android:text="@string/fakultas_dan_program_studi"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:text="@string/fakultas_upi_desc"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_ilmu_pendidikan"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_pendidikan_upi"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_pendidikan_bahasa_dan_sastra_fpbs"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_pendidikan_sastra_upi"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_pendidikan_matematika_dan_ilmu_pengetahuan_alam_fpmipa"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_fmipa_upi"/>
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_pendidikan_teknologi_dan_kejuruan_fptk"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_pendidikan_dan_teknologi_upi"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_pendidikan_ilmu_sosial_fpips"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_sosial_upi"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_pendidikan_olahraga_dan_kesehatan_fpok"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_olahraga_upi"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_seni_dan_desain_fsd"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_seni_upi"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/program_pascasarjana"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/pascasarjana_upi"/>
+
+    </LinearLayout>
+
+</ScrollView>
