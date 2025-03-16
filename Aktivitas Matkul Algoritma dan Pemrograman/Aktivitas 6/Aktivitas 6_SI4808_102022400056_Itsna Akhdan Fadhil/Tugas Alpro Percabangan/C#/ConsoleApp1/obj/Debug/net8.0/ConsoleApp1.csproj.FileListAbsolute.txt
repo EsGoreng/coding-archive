@@ -1,0 +1,21 @@
+E:\Project\Tugas Alpro\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+E:\Project\Tugas Alpro\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\Project\Tugas Alpro\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\Project\Tugas Alpro\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+E:\Project\Tugas Alpro\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\Project\Tugas Alpro\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Tugas Alpro\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Project\Tugas Alpro\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\Project\Tugas Alpro\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Project\Tugas Alpro\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+E:\Project\Tugas Alpro\C#\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\Project\Tugas Alpro\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\Project\Tugas Alpro\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\Project\Tugas Alpro\C#\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+E:\Telkom & Learn\Semester 1\Algoritma dan Pemrograman\Aktivitas 6\Aktivitas 6_SI4808_102022400056_Itsna Akhdan Fadhil\Tugas Alpro Percabangan\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Telkom & Learn\Semester 1\Algoritma dan Pemrograman\Aktivitas 6\Aktivitas 6_SI4808_102022400056_Itsna Akhdan Fadhil\Tugas Alpro Percabangan\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Telkom & Learn\Semester 1\Algoritma dan Pemrograman\Aktivitas 6\Aktivitas 6_SI4808_102022400056_Itsna Akhdan Fadhil\Tugas Alpro Percabangan\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\Telkom & Learn\Semester 1\Algoritma dan Pemrograman\Aktivitas 6\Aktivitas 6_SI4808_102022400056_Itsna Akhdan Fadhil\Tugas Alpro Percabangan\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Telkom & Learn\Semester 1\Algoritma dan Pemrograman\Aktivitas 6\Aktivitas 6_SI4808_102022400056_Itsna Akhdan Fadhil\Tugas Alpro Percabangan\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+E:\Telkom & Learn\Semester 1\Algoritma dan Pemrograman\Aktivitas 6\Aktivitas 6_SI4808_102022400056_Itsna Akhdan Fadhil\Tugas Alpro Percabangan\C#\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\Telkom & Learn\Semester 1\Algoritma dan Pemrograman\Aktivitas 6\Aktivitas 6_SI4808_102022400056_Itsna Akhdan Fadhil\Tugas Alpro Percabangan\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
