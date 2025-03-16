@@ -1,0 +1,21 @@
+E:\Project\Jurnal\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+E:\Project\Jurnal\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\Project\Jurnal\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\Project\Jurnal\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+E:\Project\Jurnal\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\Project\Jurnal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Jurnal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Project\Jurnal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\Project\Jurnal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Project\Jurnal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+E:\Project\Jurnal\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\Project\Jurnal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\Project\Jurnal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\Project\Jurnal\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+E:\Project\Archive (Done)\Archive (Done)\Jurnal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Archive (Done)\Archive (Done)\Jurnal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Project\Archive (Done)\Archive (Done)\Jurnal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\Project\Archive (Done)\Archive (Done)\Jurnal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Project\Archive (Done)\Archive (Done)\Jurnal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+E:\Project\Archive (Done)\Archive (Done)\Jurnal\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\Project\Archive (Done)\Archive (Done)\Jurnal\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb

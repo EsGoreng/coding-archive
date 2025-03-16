@@ -1,7 +1,0 @@
-#JUDUL: Pseudocode konversi dari dekameter ke kilometer
-
-int kilometer, dekameter #deklarasi variable integer
-
-input dekameter #input nilai dekameter
-int kilometer = dekameter : 100 #konversi nilai dekameter ke kilometer
-print(kilometer) #cetak hasil konversi

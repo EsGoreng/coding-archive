@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/itb"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".itb">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="260dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/unpar"/>
+
+        <TextView
+            style="@style/title_campus"
+            android:text="@string/ukp"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:text="@string/unpar_desc"/>
+
+        <TextView
+            style="@style/heading2"
+            android:text="@string/fakultas_dan_program_studi"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:text="@string/fakultas_unpar_capt"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_ekonomi"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_eknomi_ukp"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_hukum"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/ilmu_hukum"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_ilmu_sosial_dan_ilmu_politik"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_sosial_politik_ukp"/>
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_teknik"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_teknik"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_filsafat"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/filsafat"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_sastra"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_sastra_ukp"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_matematika_dan_ilmu_pengetahuan_alam"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_mtk_ukp"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/program_pascasarjana"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_pascarsarjana"/>
+
+    </LinearLayout>
+
+</ScrollView>

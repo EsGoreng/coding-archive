@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/itb"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".itb">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="260dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/unikom"/>
+
+        <TextView
+            style="@style/title_campus"
+            android:text="@string/unikom"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:text="@string/unikom_desc"/>
+
+        <TextView
+            style="@style/heading2"
+            android:text="@string/fakultas_dan_program_studi"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:text="@string/fakultas_unikom_capt"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_teknik_dan_ilmu_komputer_ftik"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="Teknik Informatika (S1), Sistem Informasi (S1), Sistem Komputer (S1), Teknik Industri (S1), Teknik Elektro (S1), Teknik Arsitektur (S1), Teknik Sipil (S1), Perencanaan Wilayah dan Kota (S1), Komputerisasi Akuntansi (D3), Manajemen Informatika (D3)"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_economic_dan_bisnis_feb"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_feb_unikom"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_desain_komunikasi_visual_fdkv"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_fdkv_unikom"/>
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_ilmu_sosial_dan_politik_fisip"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_fisipi_unikom"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_hukum_fh"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_fh_unikom"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/program_pascasarjana"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_pascasarjana_unikom"/>
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/itb"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".itb">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="260dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/telkom"/>
+
+        <TextView
+            style="@style/title_campus"
+            android:text="@string/telu"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:text="@string/telu_desc"/>
+
+        <TextView
+            style="@style/heading2"
+            android:text="@string/fakultas_dan_program_studi"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:text="@string/telu_fakultas_capt"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_teknik_elektro"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_teknik_elektro_telu"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_informatika"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_informatika_telui"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_rekayasa_industri_fri"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_fri_telu"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_economic_dan_bisnis_feb"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_feb_telu"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_komunikasi_dan_bisnis"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/fakultas_komunikasi_dan_bisnis_fkb"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/jurusan_komunikasi_bisnis_telu"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_seni_rupa_dan_desain"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_industri_kreatif_fic"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_fik_telu"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_ilmu_terapan_fit"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_ilmu_terapan"/>
+
+
+    </LinearLayout>
+
+</ScrollView>
