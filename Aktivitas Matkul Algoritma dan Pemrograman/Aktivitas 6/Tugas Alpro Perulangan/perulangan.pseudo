@@ -1,0 +1,7 @@
+Start
+    int nilai 1
+    while nilai <= 5, then:
+        print i
+        i++
+    endwhile
+end
