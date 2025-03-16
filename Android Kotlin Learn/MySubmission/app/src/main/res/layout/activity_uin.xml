@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/itb"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".itb">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="260dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/sgd"/>
+
+        <TextView
+            style="@style/title_campus"
+            android:text="@string/uin"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:text="@string/uin_desc"/>
+
+        <TextView
+            style="@style/heading2"
+            android:text="@string/fakultas_dan_program_studi"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:text="@string/itb_fakultas_capt"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_teknik"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_teknik_itb"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_ilmu_dan_teknologi"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_ilmu_dan_teknologi_itb"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_matematika_dan_ilmu_pengetahuan_alam"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_matematika_dan_ilmu_pengetahuan_alam"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/sekolah_ilmu_dan_teknologi_hayati"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_sekolah_ilmu_dan_teknologi_hayati"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/sekolah_farmasi"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_farmasi"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/fakultas_seni_rupa_dan_desain"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_seni_rupa_dan_desain"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:textStyle="bold"
+            android:text="@string/sekolah_bisnis_dan_manajemen"/>
+
+        <TextView
+            style="@style/normal_text"
+            android:layout_marginTop="0dp"
+            android:text="@string/jurusan_sekolah_bisnis_dan_manajemen"/>
+
+
+    </LinearLayout>
+
+</ScrollView>
