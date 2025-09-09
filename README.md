@@ -6,4 +6,6 @@
 - **Database** (MySQL, SQLite)  
 - **Latihan & proyek kecil** (C#)
 - **Algoritma & Struktur Data**
-- **Dicoding Submission : Belajar Dasar Pemrograman Javascript** (Javascript), 
+- **Dicoding Submission : Belajar Dasar Pemrograman Javascript** (Javascript),
+- **Dicoding Submission : To-do-app, Belajar Membuat Front-End Web untuk Pemula** (Javascript), 
+- 
