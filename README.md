@@ -1,9 +1,9 @@
 # 📂 My Coding Archive | Journey of Learning  
 
 ## 🔹 Isi Repositori  
-- **Android Development** (Android Studio, Java/Kotlin, PHP & MySQL)  
+- **Android Development** (Java/Kotlin, PHP & MySQL)  
 - **Web Development** (HTML, CSS, JavaScript, PHP)  
 - **Database** (MySQL, SQLite)  
-- **C# & .NET** (Latihan & proyek kecil)  
+- **Latihan & proyek kecil** (C#)
 - **Algoritma & Struktur Data**
-- **OneDay Productivity App** (Android Flutter App), 
+- **Dicoding Submission : Belajar Dasar Pemrograman Javascript** (Javascript), 
