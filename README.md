@@ -7,4 +7,5 @@
 - **Latihan & proyek kecil** (C#)
 - **Algoritma & Struktur Data**
 - **Dicoding Submission : Belajar Dasar Pemrograman Javascript** (Javascript),
-- **Dicoding Submission : To-do-app, Belajar Membuat Front-End Web untuk Pemula** (Javascript), 
+- **Dicoding Submission : To-do-app, Bookshelf-app, Belajar Membuat Front-End Web untuk Pemula** (HTML, CSS, Javascript),
+- **Dicoding Submission : Club-finder-app, Belajar Fundamental Front-End Web Developement** (HTML, CSS, Javascript),
