@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Akhdan Fadhil Note's App</title>
+
+        <link rel="icon" href="https://img.icons8.com/?size=100&id=0Jj2OFqGGRVZ&format=png&color=000000" sizes="512x512" />
+
+        <link rel="stylesheet" href="./src/styles/style.css"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <app-header app-title="Akhdan Fadhil's Notes"></app-header>
+        <main>
+            <div class="container">
+                <section class="note-list-container">
+                    <h2>Note List</h2>
+                    <div id="noteList" class="note-list"></div>
+                </section>
+                
+                <note-add class="note-add"></note-add>
+            </div>
+        </main>
+        <app-footer></app-footer>
+        <script type="module" src="./src/app.js"></script>
+    </body>
+</html>
