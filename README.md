@@ -10,3 +10,4 @@
 - **Dicoding : Belajar Dasar Pemrograman Javascript** (Javascript),
 - **Dicoding : To-do-app, Bookshelf-app, Belajar Membuat Front-End Web untuk Pemula** (HTML, CSS, Javascript),
 - **Dicoding : Club-finder-app, Belajar Fundamental Front-End Web Developement** (HTML, CSS, Javascript),
+- **Dicoding : Notes-app, Belajar Fundamental Front-End Web Developement** (HTML, CSS, Javascript),
