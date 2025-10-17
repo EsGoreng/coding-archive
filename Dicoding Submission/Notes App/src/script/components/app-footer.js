@@ -1,17 +1,17 @@
 class AppFooter extends HTMLElement {
-    constructor() {
-        super();
+  constructor() {
+    super();
 
-        this.render();
-    }
+    this.render();
+  }
 
-    render() {
-        this.innerHTML = `
+  render() {
+    this.innerHTML = `
         <footer>
             <p>Akhdan Fadhil Note's App &copy; 2025</p  >
         </footer>
         `;
-    }
+  }
 }
 
 customElements.define("app-footer", AppFooter);

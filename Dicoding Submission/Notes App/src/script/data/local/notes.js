@@ -107,13 +107,13 @@ const notesData = [
 ];
 
 class Notes {
-    static getAll() {
-        return notesData;
-    }
+  static getAll() {
+    return notesData;
+  }
 
-    static addNote(note) {
-      notesData.push(note);
-    }
+  static addNote(note) {
+    notesData.push(note);
+  }
 }
 
 export default Notes;

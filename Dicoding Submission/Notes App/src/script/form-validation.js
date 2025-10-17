@@ -1,8 +1,8 @@
 export const customValidationNoteHandler = (event) => {
-    event.target.setCustomValidity('');
+  event.target.setCustomValidity("");
 
-    if (event.target.validity.valueMissing) {
-        event.target.setCustomValidity('Please fill out this field.');
-        return;
-    }
+  if (event.target.validity.valueMissing) {
+    event.target.setCustomValidity("Please fill out this field.");
+    return;
+  }
 };

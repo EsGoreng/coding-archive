@@ -1,11 +1,10 @@
 class AppHeader extends HTMLElement {
   constructor() {
     super();
-
   }
 
   static get observedAttribute() {
-    return ['app-title'];
+    return ["app-title"];
   }
 
   connectedCallback() {
@@ -13,13 +12,13 @@ class AppHeader extends HTMLElement {
   }
 
   attributeChangedCallback(name, oldValue, newValue) {
-    if(name == 'app-title') {
+    if (name == "app-title") {
       this.render();
     }
   }
 
   render() {
-    const title = this.getAttribute('app-title') || "Note's App";
+    const title = this.getAttribute("app-title") || "Note's App";
 
     this.innerHTML = `
         <header class="app-bar">

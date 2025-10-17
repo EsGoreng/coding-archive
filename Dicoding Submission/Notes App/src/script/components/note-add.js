@@ -6,30 +6,32 @@ class NoteAdd extends HTMLElement {
   }
 
   connectedCallback() {
-    this.querySelector('form').addEventListener('submit', this._handleSubmit.bind(this));
+    this.querySelector("form").addEventListener(
+      "submit",
+      this._handleSubmit.bind(this),
+    );
   }
 
   _handleSubmit(event) {
     event.preventDefault();
 
-    const titleInput = this.querySelector('#title');
-    const bodyInput = this.querySelector('#note');
+    const titleInput = this.querySelector("#title");
+    const bodyInput = this.querySelector("#note");
 
     const newNote = {
-      id: `notes-${Date.now()}`,
       title: titleInput.value,
       body: bodyInput.value,
-      createdAt: new Date().toISOString(),
-      archived: false,
     };
 
-    this.dispatchEvent(new CustomEvent('note-added', {
-      detail: newNote,
-      bubbles: true,
-    }));
+    this.dispatchEvent(
+      new CustomEvent("note-added", {
+        detail: newNote,
+        bubbles: true,
+      }),
+    );
 
-    titleInput.value = '';
-    bodyInput.value = '';
+    titleInput.value = "";
+    bodyInput.value = "";
   }
 
   render() {
